@@ -1,0 +1,6 @@
+@CakesApp_HostAddress = http://localhost:5055
+
+GET {{CakesApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
